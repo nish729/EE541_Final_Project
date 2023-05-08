@@ -7,4 +7,4 @@ The ability to hear is a sense that most people take for granted. Hearing is use
 The original dataset was developed by Akash Nagaraj and can be found on [Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet). It is 1.03 GB and consists of 87,000 200x200 RGB training images as well as 29 200x200 RGB testing images. The dataset contains 29 classes: ASL letters A-Z, Space, Delete, and Nothing.
 
 ## Getting Started:
-Simply clone the repository and get the dataset from the above link and install any required libraries. The improved dataset can be provided upon request.
+Clone the repository and get the dataset from the above link. The improved dataset can be provided upon request.
